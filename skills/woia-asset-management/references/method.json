@@ -1,0 +1,35 @@
+{
+  "schema": "dev.woia.asset-management.coordination/v1",
+  "department": "asset-management",
+  "version": "0.5.0",
+  "method": [
+    "Accept administration and reconstruct the starting position",
+    "Monitor operational obligations and services",
+    "Coordinate incidents and maintenance to their outcome",
+    "Coordinate changes, renewals and termination",
+    "Maintain continuity, oversight and residual work"
+  ],
+  "distinctions": [
+    "report",
+    "diagnosis",
+    "quote",
+    "authorization",
+    "physical work",
+    "competent acceptance",
+    "cost attribution",
+    "payment"
+  ],
+  "core_dependency": {
+    "name": "woia-core",
+    "minimum_version": "0.5.3"
+  },
+  "source_authority_required": true,
+  "organization_values": "configured, never inferred",
+  "business_state_owner": "owning shared provider",
+  "external_contact_owner": "customer-service",
+  "scheduling_mutation_owner": "customer-service",
+  "money_owner": "finance",
+  "negotiation": "human-led",
+  "operator_e2e": "NOT_RUN",
+  "production_ready": false
+}
