@@ -1,0 +1,14 @@
+{
+  "schema": "dev.woia.department-orchestrator/v1",
+  "version": "0.5.0",
+  "department": "asset-management",
+  "execution_model": "opea-h",
+  "requires_plugins": [
+    {
+      "name": "woia-core",
+      "minimum_version": "0.5.3"
+    }
+  ],
+  "contracts_directory": "skills/woia-asset-management/references",
+  "authoring_profile": "thin"
+}
