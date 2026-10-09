@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-asset-management",
-  "version": "0.5.0",
+  "version": "0.5.6",
   "description": "Coordinate accepted asset administration, obligations, incidents, changes and residual work without financial or legal takeover.",
   "author": {
     "name": "Turpial AI Academy",
@@ -10,5 +10,8 @@
   "homepage": "https://github.com/Turpial-AI-Academy/woia-asset-management-agent-plugin",
   "repository": "https://github.com/Turpial-AI-Academy/woia-asset-management-agent-plugin",
   "license": "MIT",
-  "keywords": ["agent-plugin", "woia-asset-management"]
+  "keywords": [
+    "agent-plugin",
+    "woia-asset-management"
+  ]
 }
