@@ -8,7 +8,7 @@ Coordinate accepted asset administration, obligations, incidents, changes and re
 4. Coordinate changes, renewals and termination.
 5. Maintain continuity, oversight and residual work.
 
-Imported active administration needs no fictional placement. Operational UNKNOWN never implies debt or good standing. External settlement remains the initial formal calculator. End of contract does not erase keys, repairs, deposits or disputes.
+Imported active administration needs no fictional placement. Operational UNKNOWN never decides an obligation or financial position. Financial outcomes retain their independently accepted source. End of contract does not erase unresolved responsibilities or disputes.
 
 ## Shared boundaries
 
@@ -22,4 +22,4 @@ Separate report, diagnosis, quote, authorization, physical work, competent accep
 
 The host must resolve authenticated actor, purpose/field/object access, effective source-map and authority grants from trusted organization bindings before calling the pure gate. Input booleans/statuses are not approvals or credentials and must never come directly from arbitrary caller assertions. The exact grant is bound to organization, actor, purpose, subject reference/version and operation. This helper cannot authenticate a host or issue authority, store accepted facts or enforce remote effects.
 
-Department-specific outcome evaluation requires each independent fact to carry its own accepted source evidence/version. It reports evidence readiness for competent owner review; it never creates acceptance or substitutes one fact for another.
+Outcome evaluation loads [the accepted outcome descriptor](outcome-contract.md) through the trusted host port. The descriptor fixes the phase requirements, scope, immutable source revision and digest. Each required independent fact carries its own accepted current host binding, evidence and version. It reports evidence readiness for competent owner review; it never creates acceptance or substitutes one fact for another.
